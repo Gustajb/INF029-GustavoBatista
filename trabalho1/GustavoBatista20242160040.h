@@ -19,8 +19,8 @@
 // Última atualização: 07/05/2021
 
 // #################################################
-#ifndef TRABALHO1_H
-#define TRABALHO1_H
+#ifndef TRABALHO1_GUSTAVOBATISTA20242160040_H
+#define TRABALHO1_GUSTAVOBATISTA20242160040_H
 
 typedef struct DQ
 {
