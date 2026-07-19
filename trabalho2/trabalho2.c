@@ -19,7 +19,7 @@
 #include <stdlib.h>
 #define TAM 10
 
-#include "GustavoBatista20242160040.h"
+#include "trabalho2.h"
 
 int ehPosicaoValida(int posicao);
 
